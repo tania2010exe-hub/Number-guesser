@@ -7,7 +7,7 @@ i then used do/while to create a loop to ensure user can have many chances at gu
 i used switch instead of else/if because i only needed to check the guess value.
 */
 
-const short number = 2;
+'''const short number = 2;
 short guess;
 
 do
@@ -31,4 +31,4 @@ do
     }
 
 
-} while (guess!=number);
+} while (guess!=number);'''
